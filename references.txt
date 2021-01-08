@@ -1,0 +1,2 @@
+algorithm and environment details from Richard S. Sutton and Andrew G. Barto
+numpy.org
